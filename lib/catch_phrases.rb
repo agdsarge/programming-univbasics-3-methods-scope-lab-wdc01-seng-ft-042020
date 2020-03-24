@@ -18,7 +18,9 @@ def link
 end
 
 def all_phrases
-  puts "STRING"
+  mario
+  toadstool
+  link
 end
 
 
