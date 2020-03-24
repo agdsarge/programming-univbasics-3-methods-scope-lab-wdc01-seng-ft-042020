@@ -17,7 +17,7 @@ def link
   puts link_phrase
 end
 
-def all_phrases(character)
+def all_phrases
   puts "STRING"
 end
 
