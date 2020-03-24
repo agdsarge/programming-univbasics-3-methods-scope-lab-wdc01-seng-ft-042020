@@ -24,6 +24,4 @@ def all_phrases
 end
 
 
-#all_phrases("mario")
-#all_phrases("toadstool")
-#all_phrases('link')
+all_phrases("mario")
