@@ -18,13 +18,7 @@ def link
 end
 
 def all_phrases(character)
-  if character == "mario"
-    mario
-  elsif character == "toadstool"
-    toadstool
-  elsif character == "link"
-    link
-  end
+  puts "STRING"
 end
 
 
