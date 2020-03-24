@@ -13,7 +13,8 @@ def toadstool
 end
 
 def link
-  puts "It's Dangerous To Go Alone! Take This.\n"
+  link_phrase = "It's Dangerous To Go Alone! Take This.\n"
+  puts link_phrase
 end
 
 def all_phrases(character)
