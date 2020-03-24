@@ -13,16 +13,16 @@ end
 def link
   puts "It's Dangerous To Go Alone! Take This.\n"
 
-#def all_phrases(character)
-  #case character
-   # when "mario"
-    #  mario
-    #when "toadstool"
-      #toadstool
-    #when "link"
-     # link
-  #end
-#end
+def all_phrases(character)
+  case character
+    when "mario"
+      mario
+    when "toadstool"
+      toadstool
+    when "link"
+      link
+  end
+end
 
 
 #all_phrases("mario")
