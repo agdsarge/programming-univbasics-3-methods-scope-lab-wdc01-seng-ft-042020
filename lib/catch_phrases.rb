@@ -21,6 +21,7 @@ def all_phrases(character)
       toadstool
     when "link"
       link
+    else
   end
 end
 
