@@ -3,11 +3,13 @@
 #lp = "It's Dangerous To Go Alone! Take This.\n"
 
 def mario
-  puts "It's-a me, Mario!\n"
+  phrase = "It's-a me, Mario!\n"
+  puts phrase
 end
 
 def toadstool
-  puts "Thank You Mario! But Our Princess Is In Another Castle!\n"
+  status = "Thank You Mario! But Our Princess Is In Another Castle!\n"
+  puts status
 end
 
 def link
