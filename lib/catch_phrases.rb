@@ -12,10 +12,16 @@ end
 
 def link
   puts "It's Dangerous To Go Alone! Take This.\n"
+end
 
 def all_phrases(character)
-  if case == "mario"
-    
+  if character == "mario"
+    mario
+  elsif character == "toadstool"
+    toadstool
+  elsif character == "link"
+    link
+  end
 end
 
 
